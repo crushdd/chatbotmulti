@@ -309,7 +309,7 @@ Caso tenha mais dúvidas, entre em contato conosco. Estamos à disposição para
             await simulateTyping(chat, 2890);
             await client.sendMessage(
                 message.from,
-                `*TERMOS DE USO – HYPER NET*
+                `*TERMOS DE USO – HYPER NET*`
             );
             break;
         case '11':
